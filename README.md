@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahrin Tahiyat Choudhury</h1>
 <h3 align="center">I'm passionate about coding and all things tech-related, and I also have a deep love for graphic designing.</h3>
-<img align="right" alt="Coding" width="400"src="https://unsplash.com/photos/iar-afB0QQw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahrin-tahiyat-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="sahrin-tahiyat-choudhury" /> </p>
 
