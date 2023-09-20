@@ -1,23 +1,20 @@
-## Discover My Story
-About Me: 
-I'm **Sahrin Tahiyat Choudhury**, a student pursuing a **BSc in Computer Science**. I have a unique blend of interests - *I'm passionate about coding and all things tech-related, and I also have a deep love for graphic designing.*
+[![MasterHead](https://unsplash.com/photos/iar-afB0QQw)](https://sahrin-tahiyat-choudhury.io)
+<h1 align="center">Hi 👋, I'm Sahrin Tahiyat Choudhury</h1>
+<h3 align="center">I'm passionate about coding and all things tech-related, and I also have a deep love for graphic designing.</h3>
+<img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/web-web-developer-1935737/">
 
-• 🔭 I'm currently working on improving my programming skills, particularly in **C language.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahrin-tahiyat-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="sahrin-tahiyat-choudhury" /> </p>
 
-• 🌱 I'm actively learning C language as part of my studies and continually seeking opportunities to expand my knowledge in  coding.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.behance.net/sahrin tahiyat choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sahrin tahiyat choudhury" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-• I'm open to collaborating on coding projects. If you have an exciting project idea, feel free to reach out!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahrin-tahiyat-choudhury&show_icons=true&locale=en&layout=compact" alt="sahrin-tahiyat-choudhury" /></p>
 
-• I'm always eager to learn and grow. If you're experienced in coding, graphic design, or anything related to tech, I'd appreciate your guidance and insights.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahrin-tahiyat-choudhury&show_icons=true&locale=en" alt="sahrin-tahiyat-choudhury" /></p>
 
-💬 You can ask me about coding, tech-related topics, or even graphic design tips. I'm happy to share what I know and learn together.
-
-📫 You can reach out to me via email at **sahrintahiyatchoudhury@gmail.com**
-I'm looking forward to connecting with you!
-
-
-
- ⚡ Fun fact: A fun fact about me is that I started learning about **HTML, JavaScript, XML, and MySQL** back in 6th or 7th grade and have been fascinated by technology ever since.
-
-*Thank you for stopping by my README, and let's collaborate and learn together!*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrin-tahiyat-choudhury&" alt="sahrin-tahiyat-choudhury" /></p>
