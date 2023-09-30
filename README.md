@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrin-tahiyat-choudhury&" alt="sahrin-tahiyat-choudhury" /></p>
 
-### Top Contributed Repo
-https://github-contributor-stats.vercel.app/api?username=Sahrin-Tahiyat-Choudhury&limit=5&theme=flat&combine_all_yearly_contributions=true
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sahrin-Tahiyat-Choudhury&limit=5&theme=flat&combine_all_yearly_contributions=true)
