@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahrin Tahiyat Choudhury</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/main/linkdn-banner.png"> </div>
 <h3 align="center">I'm passionate about coding and all things tech-related, and I also have a deep love for graphic designing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahrin-tahiyat-choudhury&label=Profile%20views&color=0e75b6&style=flat" alt="sahrin-tahiyat-choudhury" /> </p>
