@@ -1,13 +1,13 @@
  ![readmebox (2)](https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/564cba2c-be3d-4d43-b1f5-bf93570f3383)
 
-### Hey peeps! 👋
+### Marhaba!
 
 
 <h1 align="left"> <img src="https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/1a3545d6-7f68-479b-9251-0d9360ee5ee9" width =150/> </h1> 
 
  > A brief introduction about myself
 
-What's up? I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor's level. I like coding, but I also have a soft spot for graphic design. I'm now learning C to improve my coding skills
+I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor's level. I like coding, but I also have a soft spot for graphic design. I'm now learning C to improve my coding skills
 
 
 
