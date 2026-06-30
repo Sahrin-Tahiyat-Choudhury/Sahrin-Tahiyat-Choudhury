@@ -51,6 +51,8 @@ I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor
 
 ###  Quirky Info:
 
+A little plot twist in my journey:
+
 I once dreamed of becoming a software engineer, but I was heading in a completely different direction as I prepared for a career in medicine. Then something beyond my imagination happened - I was given the opportunity to pursue a bachelor's degree in Computer Science!!
 
 **الحمد لله**
