@@ -1,4 +1,4 @@
- ![readmebox (2)](https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/564cba2c-be3d-4d43-b1f5-bf93570f3383)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ce3b5b23-bc7d-41ee-bb90-a0af5b1960c6" /> ![readmebox (2)](https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/564cba2c-be3d-4d43-b1f5-bf93570f3383)
 
 ### Marhaba!
 
@@ -58,7 +58,8 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
 ###  Reach me at :
 - 📩 Gmail : [sahrintahiyatchoudhury@gmail.com](mailto:sahrintahiyatchoudhury@gmail.com) 
 
- - LinkedIn: [Sahrin Tahiyat Choudhury](https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288) 
+ - <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bec0e7d9-bfa2-4dc9-9805-6cdcecb4c7b5" />
+: [Sahrin Tahiyat Choudhury](https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288) 
 
    
 <p align="center">
