@@ -51,8 +51,9 @@ I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor
 
 ###  Quirky Info:
 
-In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Little did I know back then, but after leaving it for almost 2 years or more, I find myself here.
- A few years ago, I didn't have a clear understanding, but I had a wish to become a software engineer.
+I once dreamed of becoming a software engineer, but I was heading in a completely different direction as I prepared for a career in medicine. Then something beyond my imagination happened - I was given the opportunity to pursue a bachelor's degree in Computer Science!!
+
+**الحمد لله**
 
 
 ###  Reach me at : 
