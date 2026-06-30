@@ -58,7 +58,7 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
 ###  Reach me at :
  - 📩 Gmail : [sahrintahiyatchoudhury@gmail.com](mailto:sahrintahiyatchoudhury@gmail.com) 
 
- - ➡️ Linkedin : [Sahrin Tahiyat Choudhury](www.linkedin.com/in/sahrin-tahiyat-choudhury)
+ - ➡️ <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288" height="30" width="40" /></a> Linkedin : [Sahrin Tahiyat Choudhury](www.linkedin.com/in/sahrin-tahiyat-choudhury)
    
 <p align="center">
   <strong>  OR    </strong>
@@ -66,7 +66,7 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
 
  
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288" height="30" width="40" /></a> </p>
+ </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahrin-tahiyat-choudhury&show_icons=true&locale=en" alt="sahrin-tahiyat-choudhury" /></p>
