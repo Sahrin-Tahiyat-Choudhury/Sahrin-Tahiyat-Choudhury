@@ -55,23 +55,24 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
  A few years ago, I didn't have a clear understanding, but I had a wish to become a software engineer.
 
 
-###  Reach me at :
+###  Reach me at : 
+<table>
+<tr>
+<td align="center">
+<a href="mailto:sahrintahiyatchoudhury@gmail.com">
+<img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" width="40">
+</a>
+</td>
 
-<p align="center">
-  <a href="mailto:sahrintahiyatchoudhury@gmail.com"  style="text-decoration:none;>
-    <img src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png"
-         alt="Gmail"
-         width="40"
-         height="40">
-  </a>
- &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sahrin-tahiyat-choudhury/" target="_blank" style="text-decoration:none;>
-    <img src="https://images.icon-icons.com/535/PNG/512/Linkedin-Icon_icon-icons.com_52893.png"
-         alt="LinkedIn"
-         width="40"
-         height="40">
-  </a>
-</p>
+<td width="20"></td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/sahrin-tahiyat-choudhury/">
+<img src="https://images.icon-icons.com/535/PNG/512/Linkedin-Icon_icon-icons.com_52893.png" width="40">
+</a>
+</td>
+</tr>
+</table>
 
 
 
