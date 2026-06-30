@@ -7,8 +7,7 @@
 
  > A brief introduction about myself
 
-I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor's level. I like coding, but I also have a soft spot for graphic design. I'm now learning C to improve my coding skills
-
+I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor's level. Passionate about Full-Stack Web Development, but I also have a soft spot for graphic design. I'm Currently learning **React** and improving my frontend skills
 
 
 ### Creative Pursuits:
@@ -19,7 +18,35 @@ I'm Sahrin Tahiyat Choudhury, a student majoring in computer science at bachelor
 
   
 <h3 align="left"> Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ###  Quirky Info:
 
