@@ -75,7 +75,6 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahrin-tahiyat-choudhury&show_icons=true&locale=en" alt="sahrin-tahiyat-choudhury" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrin-tahiyat-choudhury&" alt="sahrin-tahiyat-choudhury" /></p>
 
