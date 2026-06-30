@@ -64,9 +64,6 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
          width="30"
          height="30">
   </a>
-</p>
-
- <p align="left">
   <a href="https://www.linkedin.com/in/sahrin-tahiyat-choudhury/" target="_blank">
     <img src="https://images.icon-icons.com/535/PNG/512/Linkedin-Icon_icon-icons.com_52893.png"
          alt="LinkedIn"
@@ -74,6 +71,7 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
          height="30">
   </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrin-tahiyat-choudhury&" alt="sahrin-tahiyat-choudhury" /></p>
