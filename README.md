@@ -56,11 +56,9 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
 
 
 ###  Reach me at :
-- 📩 Gmail : [sahrintahiyatchoudhury@gmail.com](mailto:sahrintahiyatchoudhury@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahrin%20Tahiyat%20Choudhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288/)
 
- - <a href= "https://images.icon-icons.com/535/PNG/96/Linkedin-Icon_icon-icons.com_52893.png" target="blank></a>
-: [Sahrin Tahiyat Choudhury](https://www.linkedin.com/in/sahrin-tahiyat-choudhury-300427288) 
-
+[![Gmail](https://img.shields.io/badge/Gmail-sahrintahiyatchoudhury%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahrintahiyatchoudhury@gmail.com)
    
 <p align="center">
   <strong>  OR    </strong>
