@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ce3b5b23-bc7d-41ee-bb90-a0af5b1960c6" /> ![readmebox (2)](https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/564cba2c-be3d-4d43-b1f5-bf93570f3383)
+ ![readmebox (2)](https://github.com/Sahrin-Tahiyat-Choudhury/Sahrin-Tahiyat-Choudhury/assets/144997115/564cba2c-be3d-4d43-b1f5-bf93570f3383)
 
 ### Marhaba!
 
