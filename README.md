@@ -68,7 +68,7 @@ In 6th or 7th grade, I started coding with HTML, JavaScript, XML, and MySQL. Lit
 
  <p align="left">
   <a href="https://www.linkedin.com/in/sahrin-tahiyat-choudhury/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    <img src="https://images.icon-icons.com/535/PNG/512/Linkedin-Icon_icon-icons.com_52893.png"
          alt="LinkedIn"
          width="30"
          height="30">
